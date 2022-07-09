@@ -1,10 +1,10 @@
 <h1 align="center">Decodificador de Texto</h1>
 
-### 💥 Challenge Oracle Next Education - Sprint 01 💥
+### 💥 Challenge Alura+Oracle Next Education - Sprint 01 💥
 
 #### :sparkler: Link:
 
-[Github Pages](https://guilhermehub12.github.io/decodificador-de-texto/)
+[Clique Aqui](https://guilhermehub12.github.io/decodificador-de-texto/)
 
 #### :scroll: Descrição:
 
